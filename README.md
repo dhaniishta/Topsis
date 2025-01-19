@@ -16,7 +16,4 @@ TOPSIS is a method used to rank alternatives based on their proximity to the ide
   - **Topsis Score**: The calculated TOPSIS score for each alternative.
   - **Rank**: The rank of each alternative based on the TOPSIS score (higher score means better rank).
 
-### Usage:
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
 
