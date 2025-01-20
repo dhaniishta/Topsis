@@ -16,4 +16,5 @@ TOPSIS is a method used to rank alternatives based on their proximity to the ide
   - **Topsis Score**: The calculated TOPSIS score for each alternative.
   - **Rank**: The rank of each alternative based on the TOPSIS score (higher score means better rank).
 
+### Check out the package on [PyPI](https://pypi.org/project/Topsis-Dhanishta-102203520/0.3/).
 
