@@ -1,20 +1,10 @@
-# TOPSIS-Method-Implementation
+# Topsis-Dhanishta-102203520
 
-This repository contains a Python program that implements the **TOPSIS (Technique for Order Preference by Similarity to Ideal Solution)** method. The program reads an input dataset, applies the TOPSIS method, and generates an output CSV file with the calculated TOPSIS scores and rankings.
+This package implements the Topsis method for decision-making.
 
-## Project Overview
+## Installation
 
-TOPSIS is a method used to rank alternatives based on their proximity to the ideal solution. The alternatives are evaluated based on multiple criteria (e.g., cost, efficiency, etc.), and the method computes a score that reflects how close each alternative is to the ideal solution.
+You can install the package using pip:
 
-### Input:
-- An input CSV file containing decision matrix data (alternatives and their criteria).
-- Weights for each criterion.
-- Impacts for each criterion (`+` for benefit and `-` for cost).
-
-### Output:
-- An output CSV file with the original data along with two new columns:
-  - **Topsis Score**: The calculated TOPSIS score for each alternative.
-  - **Rank**: The rank of each alternative based on the TOPSIS score (higher score means better rank).
-
-### Check out the package on [PyPI](https://pypi.org/project/Topsis-Dhanishta-102203520/0.3/).
-
+```bash
+pip install Topsis-Dhanishta-102203520

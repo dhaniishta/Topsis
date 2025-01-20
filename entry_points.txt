@@ -1,0 +1,2 @@
+[console_scripts]
+topsis = Topsis_Dhanishta_102203520.topsis:main

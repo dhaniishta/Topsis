@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: Topsis-Dhanishta-102203520
+Version: 0.3
+Summary: A Python package for Topsis method
+Home-page: https://github.com/dhaniishta/Topsis-Dhanishta-102203520
+Author: Dhanishta
+Author-email: dhanishtajaggi@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+
+# Topsis-Dhanishta-102203520
+
+This package implements the Topsis method for decision-making.
+
+## Installation
+
+You can install the package using pip:
+
+```bash
+pip install Topsis-Dhanishta-102203520

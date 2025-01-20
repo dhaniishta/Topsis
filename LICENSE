@@ -1,0 +1,12 @@
+
+#### 5. **Create a License File**
+
+Use a simple [MIT License](https://opensource.org/licenses/MIT) or another open-source license of your choice.
+
+#### 6. **Create the Manifest File (`MANIFEST.in`)**
+
+This file ensures that non-Python files (like README.md) are included in the package.
+
+```txt
+include README.md
+include LICENSE
