@@ -1,4 +1,4 @@
-# Topsis-Dhanishta-102203520
+# Topsis
 
 This package implements the Topsis method for decision-making.
 # Topsis Implementation and Python Package
